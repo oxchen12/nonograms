@@ -1,0 +1,12 @@
+---
+:id: 77934507
+:submitters:
+- :name: Oliver Chen
+  :email: oxchen@ad.unc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-02 21:48:04.790139000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-02 14:48:04.790139000 Z
+:status: processed
+:score: 100.0

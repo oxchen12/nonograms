@@ -1,0 +1,37 @@
+.root {
+    -fx-background-color: #FFFFFF;
+}
+
+.message {
+    -fx-alignment: center;
+    -fx-text-alignment: left;
+    -fx-font-size: 30px;
+    -fx-font-family: sans-serif;
+}
+
+.control-button {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-font-size: 18px;
+}
+
+.game-cell-empty {
+    -fx-border-color: white;
+    -fx-border-width: 1 1 1 1;
+    -fx-background-color: #D3D3D3;
+    -fx-background-radius: 4;
+}
+
+.game-cell-shaded {
+    -fx-border-color: white;
+    -fx-border-width: 1 1 1 1;
+    -fx-background-color: #020202;
+    -fx-background-radius: 4;
+}
+
+.game-cell-eliminated {
+    -fx-border-color: white;
+    -fx-border-width: 1 1 1 1;
+    -fx-background-color: #FF0000;
+    -fx-background-radius: 4;
+}
